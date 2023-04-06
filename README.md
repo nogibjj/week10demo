@@ -1,4 +1,4 @@
-# rust-new-project-template
+# week10 rust demo
 A good starting point for a new Rust project
 
 ## References
